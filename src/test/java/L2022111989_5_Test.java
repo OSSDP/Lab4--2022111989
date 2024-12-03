@@ -25,7 +25,7 @@ public class L2022111989_5_Test {
 
 		int[] nums1 = {3, 5, 6, 7};
 		int target1 = 9;
-		assertEquals(3, solution.numSubseq(nums1, target1));  // 预期输出 4
+		assertEquals(4, solution.numSubseq(nums1, target1));  // 预期输出 4
 
 		int[] nums2 = {3, 3, 6, 8};
 		int target2 = 10;
